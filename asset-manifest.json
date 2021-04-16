@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.279806bf.chunk.css",
+    "main.js": "/static/js/main.c933406c.chunk.js",
+    "main.js.map": "/static/js/main.c933406c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7519c970.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7519c970.js.map",
+    "static/js/2.f53d5309.chunk.js": "/static/js/2.f53d5309.chunk.js",
+    "static/js/2.f53d5309.chunk.js.map": "/static/js/2.f53d5309.chunk.js.map",
+    "static/css/3.2ad04f36.chunk.css": "/static/css/3.2ad04f36.chunk.css",
+    "static/js/3.2e640308.chunk.js": "/static/js/3.2e640308.chunk.js",
+    "static/js/3.2e640308.chunk.js.map": "/static/js/3.2e640308.chunk.js.map",
+    "static/css/4.03c720bd.chunk.css": "/static/css/4.03c720bd.chunk.css",
+    "static/js/4.e81e099b.chunk.js": "/static/js/4.e81e099b.chunk.js",
+    "static/js/4.e81e099b.chunk.js.map": "/static/js/4.e81e099b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1f596772af4005c713528cc37a075bdb.js": "/precache-manifest.1f596772af4005c713528cc37a075bdb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.2ad04f36.chunk.css.map": "/static/css/3.2ad04f36.chunk.css.map",
+    "static/css/4.03c720bd.chunk.css.map": "/static/css/4.03c720bd.chunk.css.map",
+    "static/css/main.279806bf.chunk.css.map": "/static/css/main.279806bf.chunk.css.map",
+    "static/js/2.f53d5309.chunk.js.LICENSE.txt": "/static/js/2.f53d5309.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
+    "static/media/comp1.jpg": "/static/media/comp1.252ad58d.jpg",
+    "static/media/comp2.jpg": "/static/media/comp2.f0fcb91a.jpg",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/isamm.png": "/static/media/isamm.44e8cd31.png",
+    "static/media/logo-talan.png": "/static/media/logo-talan.45d34795.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/siconia.png": "/static/media/siconia.283108aa.png",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.39eff4a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7519c970.js",
+    "static/js/2.f53d5309.chunk.js",
+    "static/css/main.279806bf.chunk.css",
+    "static/js/main.c933406c.chunk.js"
+  ]
+}
