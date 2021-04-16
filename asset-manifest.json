@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/foued.bengagi.github.io/static/css/main.72abf958.chunk.css",
+    "main.js": "/foued.bengagi.github.io/static/js/main.d04cb5fa.chunk.js",
+    "main.js.map": "/foued.bengagi.github.io/static/js/main.d04cb5fa.chunk.js.map",
+    "runtime-main.js": "/foued.bengagi.github.io/static/js/runtime-main.e0de07e1.js",
+    "runtime-main.js.map": "/foued.bengagi.github.io/static/js/runtime-main.e0de07e1.js.map",
+    "static/js/2.f53d5309.chunk.js": "/foued.bengagi.github.io/static/js/2.f53d5309.chunk.js",
+    "static/js/2.f53d5309.chunk.js.map": "/foued.bengagi.github.io/static/js/2.f53d5309.chunk.js.map",
+    "static/css/3.2ad04f36.chunk.css": "/foued.bengagi.github.io/static/css/3.2ad04f36.chunk.css",
+    "static/js/3.2e640308.chunk.js": "/foued.bengagi.github.io/static/js/3.2e640308.chunk.js",
+    "static/js/3.2e640308.chunk.js.map": "/foued.bengagi.github.io/static/js/3.2e640308.chunk.js.map",
+    "static/css/4.03c720bd.chunk.css": "/foued.bengagi.github.io/static/css/4.03c720bd.chunk.css",
+    "static/js/4.e81e099b.chunk.js": "/foued.bengagi.github.io/static/js/4.e81e099b.chunk.js",
+    "static/js/4.e81e099b.chunk.js.map": "/foued.bengagi.github.io/static/js/4.e81e099b.chunk.js.map",
+    "index.html": "/foued.bengagi.github.io/index.html",
+    "precache-manifest.d0caaffa4091e93ecd460e4adb393dcf.js": "/foued.bengagi.github.io/precache-manifest.d0caaffa4091e93ecd460e4adb393dcf.js",
+    "service-worker.js": "/foued.bengagi.github.io/service-worker.js",
+    "static/css/3.2ad04f36.chunk.css.map": "/foued.bengagi.github.io/static/css/3.2ad04f36.chunk.css.map",
+    "static/css/4.03c720bd.chunk.css.map": "/foued.bengagi.github.io/static/css/4.03c720bd.chunk.css.map",
+    "static/css/main.72abf958.chunk.css.map": "/foued.bengagi.github.io/static/css/main.72abf958.chunk.css.map",
+    "static/js/2.f53d5309.chunk.js.LICENSE.txt": "/foued.bengagi.github.io/static/js/2.f53d5309.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/foued.bengagi.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/airbnbLogo.png": "/foued.bengagi.github.io/static/media/airbnbLogo.c59720d6.png",
+    "static/media/comp1.jpg": "/foued.bengagi.github.io/static/media/comp1.252ad58d.jpg",
+    "static/media/comp2.jpg": "/foued.bengagi.github.io/static/media/comp2.f0fcb91a.jpg",
+    "static/media/contactMailDark.svg": "/foued.bengagi.github.io/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/foued.bengagi.github.io/static/media/developerActivity.59389695.svg",
+    "static/media/isamm.png": "/foued.bengagi.github.io/static/media/isamm.44e8cd31.png",
+    "static/media/logo-talan.png": "/foued.bengagi.github.io/static/media/logo-talan.45d34795.png",
+    "static/media/manOnTable.svg": "/foued.bengagi.github.io/static/media/manOnTable.52be3144.svg",
+    "static/media/nextuLogo.webp": "/foued.bengagi.github.io/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/siconia.png": "/foued.bengagi.github.io/static/media/siconia.283108aa.png",
+    "static/media/skill.svg": "/foued.bengagi.github.io/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/foued.bengagi.github.io/static/media/talksCardBack.39eff4a9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0de07e1.js",
+    "static/js/2.f53d5309.chunk.js",
+    "static/css/main.72abf958.chunk.css",
+    "static/js/main.d04cb5fa.chunk.js"
+  ]
+}
