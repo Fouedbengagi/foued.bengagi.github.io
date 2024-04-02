@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dc37fcbc.css",
-    "main.js": "/portfolio/static/js/main.e7a9c9fb.js",
+    "main.js": "/portfolio/static/js/main.4c0f3914.js",
     "static/css/791.622cb1a0.chunk.css": "/portfolio/static/css/791.622cb1a0.chunk.css",
     "static/js/791.7ca66576.chunk.js": "/portfolio/static/js/791.7ca66576.chunk.js",
     "static/css/430.6cd31d9f.chunk.css": "/portfolio/static/css/430.6cd31d9f.chunk.css",
@@ -12,6 +12,7 @@
     "static/media/certif.jpg": "/portfolio/static/media/certif.b015f76fd73d27eba11e.jpg",
     "static/media/siconia.png": "/portfolio/static/media/siconia.8aa06c7a89baf5674182.png",
     "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contactMailDark.png": "/portfolio/static/media/contactMailDark.c0924c8f3a7523cd0e23.png",
     "static/media/man1.png": "/portfolio/static/media/man1.46d15f1d47fb429d6f01.png",
     "static/media/software.png": "/portfolio/static/media/software.a97f7fe4bcfda4f1a265.png",
     "static/media/java.png": "/portfolio/static/media/java.a727929f2bdcd4cbde6a.png",
@@ -25,14 +26,13 @@
     "static/media/1000cv.png": "/portfolio/static/media/1000cv.4e8fbfa6df0121f6b949.png",
     "static/media/badge-SODFC.png": "/portfolio/static/media/badge-SODFC.a919c2d2dd2d6c54474b.png",
     "static/media/badge-SFC.png": "/portfolio/static/media/badge-SFC.f4f2c3fd15c20afd27cd.png",
-    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/mind.jpg": "/portfolio/static/media/mind.5fea74e5ac2951e73421.jpg",
     "static/media/logo-talan.png": "/portfolio/static/media/logo-talan.99d1213211d00a6f5071.png",
     "static/media/compta.png": "/portfolio/static/media/compta.1412fac765e78e88acb1.png",
     "index.html": "/portfolio/index.html",
     "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.99241699e0279aeb0db7.svg",
     "main.dc37fcbc.css.map": "/portfolio/static/css/main.dc37fcbc.css.map",
-    "main.e7a9c9fb.js.map": "/portfolio/static/js/main.e7a9c9fb.js.map",
+    "main.4c0f3914.js.map": "/portfolio/static/js/main.4c0f3914.js.map",
     "791.622cb1a0.chunk.css.map": "/portfolio/static/css/791.622cb1a0.chunk.css.map",
     "791.7ca66576.chunk.js.map": "/portfolio/static/js/791.7ca66576.chunk.js.map",
     "430.6cd31d9f.chunk.css.map": "/portfolio/static/css/430.6cd31d9f.chunk.css.map",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.dc37fcbc.css",
-    "static/js/main.e7a9c9fb.js"
+    "static/js/main.4c0f3914.js"
   ]
 }
